@@ -2,11 +2,17 @@
 
 Este repositorio es un archivo de tuits públicos de instituciones españolas.
 
-Desde el arranque de cada una en Twitter, hasta el verano de 2020. Para la mayoría de las cuentas esto significa aproximadamente una década de tuits.
+Desde el arranque de cada una en Twitter, hasta el verano de 2020. Para la mayoría de las cuentas esto significa aproximadamente una década de tuits. Todo el archivo en su conjunto ronda el millón y medio de tuits.
+
+# Para qué
+
+Para usarse como recurso periodístico, investigativo o histórico; para utilizarse con herramientas de aprendizaje automático o inteligencia artificial; o simplemente para [aflorar y exponer propaganda institucional](https://twitter.com/JaimeObregon/status/1286827225971556359).
+
+# Quién
 
 Compilado por <strong>Jaime Gómez-Obregón</strong>. Si echas alguna institución en falta, por favor abre un *issue* o envíame un tuit a [`@JaimeObregon`](https://twitter.com/JaimeObregon) e intentaré incorporarla.
 
-No incorporaré a este archivo cuentas de políticos ni de partidos; solo instituciones :-)
+No incorporaré a este archivo cuentas de políticos ni de partidos. Solo instituciones españolas.
 
 # Licencia
 
